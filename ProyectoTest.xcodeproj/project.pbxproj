@@ -35,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F48E7B671D890E0400AA0D4F /* MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MiniReto.playground; path = ../MiniReto.playground; sourceTree = "<group>"; };
 		F4B6FC421D8630C90071AB19 /* ProyectoTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProyectoTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4B6FC451D8630C90071AB19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4B6FC471D8630C90071AB19 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		F4B6FC391D8630C80071AB19 = {
 			isa = PBXGroup;
 			children = (
+				F48E7B671D890E0400AA0D4F /* MiniReto.playground */,
 				F4B6FC441D8630C90071AB19 /* ProyectoTest */,
 				F4B6FC5B1D8630C90071AB19 /* ProyectoTestTests */,
 				F4B6FC661D8630C90071AB19 /* ProyectoTestUITests */,
@@ -493,6 +495,7 @@
 				F4B6FC6E1D8630C90071AB19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4B6FC6F1D8630C90071AB19 /* Build configuration list for PBXNativeTarget "ProyectoTestTests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +504,7 @@
 				F4B6FC711D8630C90071AB19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4B6FC721D8630C90071AB19 /* Build configuration list for PBXNativeTarget "ProyectoTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +513,7 @@
 				F4B6FC741D8630C90071AB19 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
